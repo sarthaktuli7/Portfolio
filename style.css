@@ -302,6 +302,10 @@ section {
   border-color: rgb(163, 163, 163);
  
 }
+.text-container{
+  text-align: justify;
+}
+
 
 .section-container {
   gap: 4rem;
